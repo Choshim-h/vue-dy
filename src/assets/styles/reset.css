@@ -1,0 +1,11 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+ul, ol, li{
+    list-style: none;
+}
+a{
+    color: #000;
+    text-decoration: none;
+}
