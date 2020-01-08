@@ -22,7 +22,7 @@
 </template>
 
 <style>
-.router-link-active{
+.active{
   border-bottom: 2px solid #fff;
 }
 .header{

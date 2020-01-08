@@ -15,13 +15,13 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .nav a{
     display: inline-block;
     padding: 5px 10px;
     margin-right: 20px;
 }
-.router-link-active{
+.active{
     background-color: black;
     color: #fff;
 }
